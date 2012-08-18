@@ -1,4 +1,4 @@
-<html xmlns:fb="http://ogp.me/ns/fb#">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" >
   <head>
 		<meta http-equiv="X-UA-Compatible" content="IE=9" />
     <meta property="fb:admins" content="arobba"/>  
