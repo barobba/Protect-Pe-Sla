@@ -2,7 +2,10 @@
   <head>
 		<meta http-equiv="X-UA-Compatible" content="IE=9" />
     <meta property="fb:admins" content="arobba"/>  
-    <meta property="fb:app_id" content="372923886111980"/>  
+    <meta property="fb:app_id" content="372923886111980"/>
+    <?php if($page_title): ?>  
+    	<meta property="og:title" content="<?php echo $page_title ?>"/>
+    <?php endif; ?>  
     <meta property="og:image" content="http://rosebudsiouxtribe-nsn.gov/templates/rst_default/Logo.png"/>  
 	  <link rel="stylesheet" type="text/css" href="css/style.css" />
 	  <script type="text/javascript" src="javascript/jquery.min.js"></script>

@@ -1,3 +1,4 @@
+<?php $page_title = 'Help Us - Protect Pe Sla'; ?>
 <?php require_once 'template/template-top.php' ?>    	  
   	  
   <div id="donation-request" class="content-block">

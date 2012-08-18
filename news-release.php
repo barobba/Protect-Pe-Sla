@@ -1,3 +1,4 @@
+<?php $page_title = 'NEWS RELEASE - Protect Pe Sla'; ?>
 <?php require_once 'template/template-top.php' ?>    	  
 
   <div class="content-block">

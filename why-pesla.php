@@ -1,3 +1,4 @@
+<?php $page_title = 'Why Pe Sla? - Protect Pe Sla'; ?>
 <?php require_once 'template/template-top.php' ?>    	  
 
   <div style="text-align: center" class="content-block">
