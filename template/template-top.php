@@ -1,4 +1,4 @@
-<html>
+<html xmlns:fb="http://ogp.me/ns/fb#">
   <head>
 		<meta http-equiv="X-UA-Compatible" content="IE=9" />
     <meta property="fb:admins" content="arobba"/>  
@@ -34,30 +34,14 @@
     </script>	  
   </head>
   <body>
-  
     <div id="fb-root"></div>
-    <script>
-      window.fbAsyncInit = function() {
-        FB.init({
-          appId      : '372923886111980', // App ID
-          channelUrl : '//protectpesla.org/_fb-channel.html', // Channel File
-          status     : true, // check login status
-          cookie     : true, // enable cookies to allow the server to access the session
-          xfbml      : true  // parse XFBML
-        });
-    
-        // Additional initialization code here
-      };
-    
-      // Load the SDK Asynchronously
-      (function(d){
-         var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
-         if (d.getElementById(id)) {return;}
-         js = d.createElement('script'); js.id = id; js.async = true;
-         js.src = "//connect.facebook.net/en_US/all.js";
-         ref.parentNode.insertBefore(js, ref);
-       }(document));
-    </script>      
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=372923886111980";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
   	<div id="page-wrapper" class="clearfix">
   	
   	  <div id="header-content" class="clearfix">
@@ -74,5 +58,5 @@
 	    </div>
   	  <div id="body-content" class="clearfix">
   	  
-				<div class="fb-like" data-send="true" data-width="928" data-show-faces="true" data-colorscheme="dark"></div>
+  	    <fb:like class="fb-like" send="true" width="928" show_faces="true" colorscheme="dark"></fb:like>
   	  
