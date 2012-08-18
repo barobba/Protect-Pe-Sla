@@ -98,3 +98,8 @@ body a {
   background: transparent url(pictures/black50.png);
   background-color: rgba(0,0,0,0.5);
 }
+.fb-like {
+  padding-bottom: 1em;
+  display: block;
+}
+

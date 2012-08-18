@@ -1,5 +1,5 @@
 <?php require_once 'template/template-top.php' ?>    	  
-  
+
   <div class="content-block">
   
     <h2>News Release</h2>
