@@ -24,10 +24,13 @@ for Lakota people alive and intact at Pe Sla.
 <br />Rosebud, SD 57570
 </p></li>
 
-<li><p>Online with Last Real Indians at:
-<br /><a href="http://indiegogo.com/PeSla-LakotaHeartland">http://indiegogo.com/PeSla-LakotaHeartland</a>.</p></li>
+<li><p>Or online with <em>Last Real Indians</em> at:
+<br /><a href="http://indiegogo.com/PeSla-LakotaHeartland">http://indiegogo.com/PeSla-LakotaHeartland</a>.
+<br />
+<br /><iframe src="http://www.indiegogo.com/project/199667/widget" width="224px" height="429px" frameborder="0" scrolling="no"></iframe>
+</p></li>
 
-<li><p>Via PayPal:</p>
+<li><p>Or via PayPal:</p>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
   <input type="hidden" name="cmd" value="_s-xclick">
   <input type="hidden" name="hosted_button_id" value="PPCKPD94SYJNG">
@@ -37,4 +40,4 @@ for Lakota people alive and intact at Pe Sla.
 
 </ul>
 
-<p>All donations to the Rosebud Sioux Tribe are tax-deductible and will only be used toward the purchase of Pe Sla.</p>
+<p>All donations to the Rosebud Sioux Tribe are tax-deductible and will only be used toward the purchase of Pe&nbsp;Sla.</p>
