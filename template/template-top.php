@@ -1,6 +1,8 @@
 <html>
   <head>
 		<meta http-equiv="X-UA-Compatible" content="IE=9" />
+    <meta property="fb:admins" content="arobba"/>  
+    <meta property="fb:app_id" content="372923886111980"/>  
     <meta property="og:image" content="http://rosebudsiouxtribe-nsn.gov/templates/rst_default/Logo.png"/>  
 	  <link rel="stylesheet" type="text/css" href="css/style.css" />
 	  <script type="text/javascript" src="javascript/jquery.min.js"></script>
@@ -33,7 +35,7 @@
       var js, fjs = d.getElementsByTagName(s)[0];
       if (d.getElementById(id)) return;
       js = d.createElement(s); js.id = id;
-      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=482666868430182";
+      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=372923886111980";
       fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));</script>
       
