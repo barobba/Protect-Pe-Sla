@@ -4,7 +4,9 @@
   $script_filename = $script_filename[count($script_filename)-1]; 
   if($script_filename != 'index.php'):
 ?>
+	<!-- 
 	<div class="fb-like" data-send="true" data-width="450" data-show-faces="true" data-colorscheme="dark"></div>
+	 -->
 <?php endif; ?>
 
 <p>The Rosebud Sioux Tribe is working with 
