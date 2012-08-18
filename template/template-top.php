@@ -1,6 +1,7 @@
 <html>
   <head>
-		<meta http-equiv="X-UA-Compatible" content="IE=9" />  
+		<meta http-equiv="X-UA-Compatible" content="IE=9" />
+    <meta property="og:image" content="http://rosebudsiouxtribe-nsn.gov/templates/rst_default/Logo.png"/>  
 	  <link rel="stylesheet" type="text/css" href="css/style.css" />
 	  <script type="text/javascript" src="javascript/jquery.min.js"></script>
 	  <script type="text/javascript" src="javascript/news.js"></script>
