@@ -74,5 +74,5 @@
 	    </div>
   	  <div id="body-content" class="clearfix">
   	  
-				<div class="fb-like" data-send="true" data-width="450" data-show-faces="true" data-colorscheme="dark"></div>
+				<div class="fb-like" data-send="true" data-width="928" data-show-faces="true" data-colorscheme="dark"></div>
   	  
