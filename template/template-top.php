@@ -6,6 +6,7 @@
     <?php if($page_title): ?>  
     	<meta property="og:title" content="<?php echo $page_title ?>"/>
     <?php endif; ?>  
+    <meta property="og:type" content="website"/>  
     <meta property="og:image" content="http://rosebudsiouxtribe-nsn.gov/templates/rst_default/Logo.png"/>  
 	  <link rel="stylesheet" type="text/css" href="css/style.css" />
 	  <script type="text/javascript" src="javascript/jquery.min.js"></script>
