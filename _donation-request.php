@@ -7,9 +7,9 @@
 	<div class="fb-like" data-send="true" data-width="450" data-show-faces="true" data-colorscheme="dark"></div>
 <?php endif; ?>
 
-<p>The tribe is working with 
+<p>The Rosebud Sioux Tribe is working with 
 <a href="http://LastRealIndians.com">LastRealIndians.com</a> to accept donations 
-from both tribes and individuals, who want to join in keeping religious freedoms 
+from both Tribes and anyone else who wants to join in keeping religious freedoms 
 for Lakota people alive and intact at Pe Sla.
 
 <p>There are several ways that you can make a tax-deductible donation:</p>
@@ -35,4 +35,4 @@ for Lakota people alive and intact at Pe Sla.
 
 </ul>
 
-<p>All donations to the Tribe are tax-deductible and will only be used toward the purchase of Pe Sla.</p>
+<p>All donations to the Rosebud Sioux Tribe are tax-deductible and will only be used toward the purchase of Pe Sla.</p>
