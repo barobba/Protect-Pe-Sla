@@ -37,10 +37,7 @@
   	    </div>
   	  </div>
 	    <div id="top-nav">
-	      <ul class="nav">
-	        <li><a href=".">In the News</a></li>
-	        <li><a href="protect-pesla.php">Help us Buy Back "Pe Sla"</a></li>
-	      </ul>
+	      <?php require_once '_navigation.php' ?>
 	    </div>
   	  <div id="body-content" class="clearfix">
   	  
