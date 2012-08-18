@@ -10,7 +10,8 @@ for Lakota people alive and intact at Pe Sla.
 <br />Rosebud Sioux Tribe / Pe Sla
 <br />11 Legion Ave.
 <br />P.O. Box 430
-<br />Rosebud, SD 57570</p></li>
+<br />Rosebud, SD 57570
+</p></li>
 
 <li><p>Online with Last Real Indians at:
 <br /><a href="http://indiegogo.com/PeSla-LakotaHeartland">http://indiegogo.com/PeSla-LakotaHeartland</a>.</p></li>
