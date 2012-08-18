@@ -5,6 +5,7 @@
     <meta property="fb:app_id" content="372923886111980"/>
     <?php if($page_title): ?>  
     	<meta property="og:title" content="<?php echo $page_title ?>"/>
+    	<title><?php echo $page_title ?></title>
     <?php endif; ?>  
     <meta property="og:type" content="website"/>  
     <meta property="og:image" content="http://rosebudsiouxtribe-nsn.gov/templates/rst_default/Logo.png"/>  
