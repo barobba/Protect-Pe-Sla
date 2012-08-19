@@ -11,10 +11,13 @@
     <meta property="og:image" content="http://rosebudsiouxtribe-nsn.gov/templates/rst_default/Logo.png"/>  
 	  <link rel="stylesheet" type="text/css" href="css/style.css" />
 	  <script type="text/javascript" src="javascript/jquery.min.js"></script>
-	  <script type="text/javascript" src="javascript/news.js"></script>
+	  <script type="text/javascript" src="javascript/json2template.js"></script>
 	  <script type="text/javascript">
 	    $(document).ready(function(){
-		    news({id: 'pesla-news', search: 'Pe Sla'});
+		    json2template({
+			    url: 'https://ajax.googleapis.com/ajax/services/search/news?v=1.0&q='+encodeURIComponent('"Pe Sla"')+'&callback=?',
+			    id: 'peslaNews', templateId: 'peslaNewsTemplate'
+				});
 		  });
 	  </script>
     <script type="text/javascript">

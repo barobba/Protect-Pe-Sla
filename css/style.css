@@ -5,15 +5,8 @@
 .clearfix:after {clear: both;}
 .clearfix {*zoom: 1;}
 
-.nav {
-  padding: 0px;
-  margin: 0px;
-}
-.nav li {
-  display: inline;
-  list-style-type: none;
-  padding: 0px;
-}
+.nav {padding: 0px; margin: 0px;}
+.nav li {display: inline; list-style-type: none; padding: 0px;}
 
 body {
   margin: 0px;
@@ -26,22 +19,16 @@ body {
   font-family: Verdana;
 }
 
-body a {
-  color: yellow;
-}
+body a {color: yellow;}
 
 #page-wrapper {
   width: 960px;
   margin: 0px auto;
   text-align: left;
-  background: transparent url(pictures/black50.png);
-  background-color: rgba(0,0,0,0.5);
+  background: transparent url(../pictures/black50.png);
 }
 
-#header-content {
-  padding: 1em;
-  text-align: left;
-}
+#header-content {padding: 1em; text-align: left;}
 
 #site-logo {
   float: left;
@@ -73,7 +60,6 @@ body a {
 
 #top-nav {
   background: transparent url(../pictures/black50.png);
-  /*background-color: rgba(0,0,0,0.5);*/
   padding: .5em 1em;
 }
 
@@ -95,11 +81,13 @@ body a {
 .content-block {
   margin-bottom: .5em;
   padding: 1em;
-  background: transparent url(pictures/black50.png);
-  background-color: rgba(0,0,0,0.5);
-}
-.fb-like {
-  padding-bottom: 1em;
-  display: block;
+  background: transparent url(../pictures/black50.png);
 }
 
+.fb-like {padding-bottom: 1em; display: block;}
+
+#peslaNews .peslaNewsResult {margin-bottom: 1em;}
+#peslaNews .peslaNewsResult #titleContainer {padding-bottom: 8px;}
+#peslaNews .peslaNewsResult #image-tbUrl {float: left; padding-right: .5em; padding-top: 3px; border: 0px; }
+#peslaNews .peslaNewsResult #publisherInfo {color: #bb6666; font-size: .8em;}
+#peslaNewsMoreLink {text-align: center;}
