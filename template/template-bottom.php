@@ -1,4 +1,9 @@
-<?php $comments_url = 'http://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI']; ?>
+<?php 
+  $request = $_SERVER['REQUEST_URI'];
+  $request = explode('?', $request);
+  $request = $request[0];
+  $comments_url = 'http://'.$_SERVER['HTTP_HOST'].$request;
+?>
 
         <div style="text-align: center" class="content-block">
           <h2>Please share your comments.</h2>
