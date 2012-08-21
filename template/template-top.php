@@ -1,3 +1,9 @@
+<?php 
+  $request = $_SERVER['REQUEST_URI'];
+  $request = explode('?', $request);
+  $request = $request[0];
+  $page_url = 'http://'.$_SERVER['HTTP_HOST'].$request;
+?>
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" >
   <head>
 		<meta http-equiv="X-UA-Compatible" content="IE=9" />
@@ -49,7 +55,7 @@
   	
   	  <div id="header-content" class="clearfix">
   	    <div id="site-logo">
-    	    <img src="http://rosebudsiouxtribe-nsn.gov/templates/rst_default/Logo.png" />
+    	    <a href="http://rosebudsiouxtribe-nsn.gov"><img src="http://rosebudsiouxtribe-nsn.gov/templates/rst_default/Logo.png" /></a>
   	    </div>
   	    <div id="site-name">
 	  	    <div class="heading"><a href="http://rosebudsiouxtribe-nsn.gov/"><img src="http://rosebudsiouxtribe-nsn.gov/templates/rst_default/Slogan.png" /></a></div>
@@ -61,5 +67,5 @@
 	    </div>
   	  <div id="body-content" class="clearfix">
   	  
-  	    <fb:like class="fb-like" send="true" width="928" show_faces="true" colorscheme="dark"></fb:like>
+  	    <fb:like class="fb-like" data-href="<?php echo $page_url ?>" send="true" width="928" show_faces="true" colorscheme="dark"></fb:like>
   	  
