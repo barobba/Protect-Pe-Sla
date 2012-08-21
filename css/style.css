@@ -10,6 +10,7 @@
 
 body {
   margin: 0px;
+  padding-bottom: 2em;
   background-color: rgb(103,0,1);
   background-image: url(http://rosebudsiouxtribe-nsn.gov/templates/rst_default/body_bg.jpg);
   background-repeat: no-repeat;
@@ -21,12 +22,7 @@ body {
 
 body a {color: yellow;}
 
-#page-wrapper {
-  width: 960px;
-  margin: 0px auto;
-  text-align: left;
-  background: transparent url(../pictures/black50.png);
-}
+#page-wrapper {width: 960px; margin: 0px auto; text-align: left; background: transparent url(../pictures/black50.png);}
 
 #header-content {padding: 1em; text-align: left;}
 
@@ -35,6 +31,7 @@ body a {color: yellow;}
 }
 #site-logo img {
   width: 100px;
+  border: none;
 }
 #site-name {
   padding-top: 1em;
@@ -75,7 +72,18 @@ body a {color: yellow;}
 #body-content {
   padding: 1em;
   padding-top: 2em;
-  padding-bottom: 2em;
+  /*padding-bottom: 2em;*/
+}
+
+#footer-content {
+  padding: 0px 1em;
+  padding-bottom: 1em;
+}
+
+#owner {
+  padding-top: 4px;
+  text-align: center;
+  font-size: .8em;
 }
 
 .content-block {

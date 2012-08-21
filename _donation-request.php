@@ -9,7 +9,7 @@
 	 -->
 <?php endif; ?>
 
-<p>The Rosebud Sioux Tribe is working with 
+<p>The <a href="http://rosebudsiouxtribe-nsn.gov">Rosebud Sioux Tribe</a> is working with 
 <a href="http://LastRealIndians.com">LastRealIndians.com</a> to accept donations 
 from both Tribes and anyone else who wants to join in keeping religious freedoms 
 for Lakota people alive and intact at Pe Sla.
@@ -40,4 +40,4 @@ for Lakota people alive and intact at Pe Sla.
 
 </ul>
 
-<p>All donations to the Rosebud Sioux Tribe are tax-deductible and will only be used toward the purchase of Pe&nbsp;Sla.</p>
+<p>All donations to the <a href="http://rosebudsiouxtribe-nsn.gov">Rosebud Sioux Tribe</a> are tax-deductible and will only be used toward the purchase of Pe&nbsp;Sla.</p>
