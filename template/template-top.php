@@ -66,6 +66,5 @@
 	      <?php require_once '_navigation.php' ?>
 	    </div>
   	  <div id="body-content" class="clearfix">
-  	  
-  	    <fb:like class="fb-like" data-href="<?php echo $page_url ?>" send="true" width="928" show_faces="true" colorscheme="dark"></fb:like>
+				<?php require_once '_fb-like-block.php' ?>  	  
   	  
