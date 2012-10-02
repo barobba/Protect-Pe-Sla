@@ -1,1 +1,0 @@
-<fb:like class="fb-like" data-href="<?php echo $page_url ?>" send="true" width="928" show_faces="true" colorscheme="dark"></fb:like>

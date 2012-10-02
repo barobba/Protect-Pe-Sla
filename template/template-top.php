@@ -55,10 +55,9 @@
   	
   	  <div id="header-content" class="clearfix">
   	    <div id="site-logo">
-    	    <a href="http://rosebudsiouxtribe-nsn.gov"><img src="http://rosebudsiouxtribe-nsn.gov/templates/rst_default/Logo.png" /></a>
+    	    <a href="http://rosebudsiouxtribe-nsn.gov"><img src="http://rosebudsiouxtribe-nsn.gov/Template-files/pictures/rst-flag.png" /></a>
   	    </div>
   	    <div id="site-name">
-	  	    <div class="heading"><a href="http://rosebudsiouxtribe-nsn.gov/"><img src="http://rosebudsiouxtribe-nsn.gov/templates/rst_default/Slogan.png" /></a></div>
 	  	    <div class="sub-heading">Protect Pe Sla</div>
   	    </div>
   	  </div>
