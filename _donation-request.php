@@ -1,16 +1,4 @@
-<?php 
-  $script = $_SERVER['SCRIPT_NAME'];
-  $script_filename = explode('/', $script);
-  $script_filename = $script_filename[count($script_filename)-1]; 
-  if($script_filename != 'index.php'):
-?>
-	<!-- 
-	<div class="fb-like" data-send="true" data-width="450" data-show-faces="true" data-colorscheme="dark"></div>
-	 -->
-<?php endif; ?>
-
-<p>The <a href="http://rosebudsiouxtribe-nsn.gov">Rosebud Sioux Tribe</a> is working with 
-<a href="http://LastRealIndians.com">LastRealIndians.com</a> to accept donations 
+<p>The <a href="http://rosebudsiouxtribe-nsn.gov">Rosebud Sioux Tribe</a> is accepting donations 
 from both Tribes and anyone else who wants to join in keeping religious freedoms 
 for Lakota people alive and intact at Pe Sla.
 
@@ -22,12 +10,6 @@ for Lakota people alive and intact at Pe Sla.
 <br />11 Legion Ave.
 <br />P.O. Box 430
 <br />Rosebud, SD 57570
-</p></li>
-
-<li><p>Or online with <em>Last Real Indians</em> at:
-<br /><a href="http://indiegogo.com/PeSla-LakotaHeartland">http://indiegogo.com/PeSla-LakotaHeartland</a>.
-<br />
-<br /><iframe src="http://www.indiegogo.com/project/199667/widget" width="224px" height="429px" frameborder="0" scrolling="no"></iframe>
 </p></li>
 
 <li><p>Or via PayPal:</p>
